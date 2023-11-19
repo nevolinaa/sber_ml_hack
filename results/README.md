@@ -1,3 +1,4 @@
-inference.py - code with creation of new features and model training
-results.csv - result sent to the competition
-model.pkl - model file
+**inference.py** - code with creation of new features and model training  
+**results.csv** - result sent to the competition  
+**model.pkl** - model file  
+**requirements.txt** - libraries required for code execution  
